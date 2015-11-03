@@ -1,6 +1,6 @@
 # A minimal Debian base image modified for Docker-friendliness
 
-[![](https://badge.imagelayers.io/j1mr10rd4n/debian-baseimage:8.2.1.svg)](https://imagelayers.io/?images=j1mr10rd4n/debian-baseimage-docker:latest 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/j1mr10rd4n/debian-baseimage-docker:latest.svg)](https://imagelayers.io/?images=j1mr10rd4n/debian-baseimage-docker:latest 'Get your own badge on imagelayers.io')
 
 Baseimage-docker is a special [Docker](https://www.docker.com) image that is configured for correct use within Docker containers. It is Debian, plus:
 
