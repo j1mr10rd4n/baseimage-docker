@@ -1,6 +1,6 @@
 # A minimal Debian base image modified for Docker-friendliness
 
-[![](https://badge.imagelayers.io/phusion/baseimage:0.9.17.svg)](https://imagelayers.io/?images=phusion/baseimage:latest 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/j1mr10rd4n/debian-baseimage:8.2.1.svg)](https://imagelayers.io/?images=j1mr10rd4n/debian-baseimage-docker:latest 'Get your own badge on imagelayers.io')
 
 Baseimage-docker is a special [Docker](https://www.docker.com) image that is configured for correct use within Docker containers. It is Debian, plus:
 
@@ -10,7 +10,7 @@ Baseimage-docker is a special [Docker](https://www.docker.com) image that is con
 
 You can use it as a base for your own Docker images.
 
-Baseimage-docker is available for pulling from [the Docker registry](https://registry.hub.docker.com/u/phusion/baseimage/)!
+Baseimage-docker is available for pulling from [the Docker registry](https://registry.hub.docker.com/u/j1mr10rd4n/debian-baseimage-docker/)!
 
 ### Is this related to Phusion's Baseimage-docker?
 
